@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Ireland being a true account of the late King James's quitting that kingdom and going for France accompanied with the Dukes of Powis and Tyrconnel &amp;c. : likewise a true account of the surrender of Waterford, Kilkenny, Limerick and several other places of less note.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41917</idno>
+            <idno type="STC">Wing G1724C</idno>
+            <idno type="STC">ESTC R36562</idno>
+            <idno type="EEBO-CITATION">15725298</idno>
+            <idno type="OCLC">ocm 15725298</idno>
+            <idno type="VID">104540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Ireland being a true account of the late King James's quitting that kingdom and going for France accompanied with the Dukes of Powis and Tyrconnel &amp;c. : likewise a true account of the surrender of Waterford, Kilkenny, Limerick and several other places of less note.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Balding ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated: Dublin, July the 15th, 1690.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:104540:1" rendition="simple:additions"/>
+            <head>Great News from IRELAND, Being a True ACCOUNT Of the Late King JAMES'S Quitting that KINGDOM, And going for FRANCE: Accompanied with the Dukes of <hi>Powis</hi> and <hi>Tyrconnel,</hi> &amp;c.</head>
+            <head type="sub">LIKEWISE A true Account of the Surrender of <hi>WATERFORD, KILKENNY, LIMERICK,</hi> and ſeveral other Places of leſs Note.</head>
+            <div type="letter">
+               <opener>
+                  <dateline>Dublin, <date>July <hi>the</hi> 15th. <hi>1690.</hi>
+                     </date>
+                  </dateline>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>I Preſume ere this, you have re<g ref="char:EOLhyphen"/>ceived the Letter I ſent you from our Camp near the <hi>Boyne;</hi> Since that, you have known by o<g ref="char:EOLhyphen"/>ther Hands, that by one Fight we have frighted and ſcattered our Enemy, and were preſently poſ<g ref="char:EOLhyphen"/>ſeſſed of the ſtrong Town of <hi>Dro<g ref="char:EOLhyphen"/>hedah,</hi> and are now as quietly ſet<g ref="char:EOLhyphen"/>led in this City, yet in much bet<g ref="char:EOLhyphen"/>ter Condition than was expected. They left Stores filled with Provi<g ref="char:EOLhyphen"/>ſion of Mouth and War: They have great Stores likewiſe in the Country; which are all open for our Receipt.</p>
+               <p>Their King is run away, with the Duks of <hi>Powis, Tyrconnel,</hi> and ſome few more, towards <hi>Kingſale;</hi> their Army all ſcattered in the Country; ſo that the War ſeems now to be at an end. <hi>Galloway,
+<pb facs="tcp:104540:2" rendition="simple:additions"/>Limerick,</hi> and <hi>Athlone</hi> are, as I hear, the only places like to ſtand out againſt us; and having no hopes of Relief, will, as its thought be eaſily ſurrendred.</p>
+               <p>His Majeſty you ſee hath con<g ref="char:EOLhyphen"/>quered this Kingdom, with a <hi>Veni<g ref="char:EOLhyphen"/>vidi-vici,</hi> it will require more of his Trouble to ſettle than to con<g ref="char:EOLhyphen"/>quer it: I cannot now further en<g ref="char:EOLhyphen"/>large, the Expreſs waiting the mo<g ref="char:EOLhyphen"/>tion of my Pen, but to tell you, this day by the Poſt, if poſſible, I will ſend you a more particular Account.</p>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>Dublin, <date>July <hi>10th. 1690.</hi>
+                     </date>
+                  </dateline>
+                  <salute>Honoured Sir.</salute>
+               </opener>
+               <p>I Sent you one of this Date by the Expreſs, and have now to add, That we have ſure Adver<g ref="char:EOLhyphen"/>tiſement ſent us by an Expreſs, That the late King <hi>James</hi> on <hi>Wedneſday</hi>-Night laſt embarqued at <hi>Duncannon,</hi> a Fort that com<g ref="char:EOLhyphen"/>mands Paſſage-Harbour, <hi>viz.</hi> the Harbour of <hi>Waterford;</hi> and that he, Duke <hi>Powis,</hi> and <hi>Tyrconnel,</hi> and ſome others, are gone direct for <hi>France.</hi> Their Army is ſcattered in the Country, and are forced to turn <hi>T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> to get them a ſupport; ſo that it's believed our King's work will be applied rather to ſet<g ref="char:EOLhyphen"/>tle than make further Conqueſts he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>The Proteſtants of <hi>Wexford</hi> have ſeized that Garriſon, and de<g ref="char:EOLhyphen"/>clared for King <hi>William</hi> and Quen <hi>Mary,</hi> the other Towns where Proteſtants are, will we expect, follow that Preſident, of which we have already ſome reports, par<g ref="char:EOLhyphen"/>ticularly as to <hi>Waterford</hi> and <hi>Kil<g ref="char:EOLhyphen"/>kenny.</hi>
+               </p>
+               <p>We cannot learn that there is 5000. of the Enemy in a Body, nor underſtand that there are any of them appears within Thirty Miles of this City, what Forces they late had of the <hi>Germans</hi> who are Proteſtants are come into us.</p>
+               <p>The <hi>French</hi> are gon with three Field-Pieces near <hi>Limerik,</hi> but its thought they will be met in the way, our Horſe are now ſcattering to pick up the ſcatterers of the E<g ref="char:EOLhyphen"/>nemies ſcattered Army.</p>
+               <p>We all believe that there will not be ſtruck one ſtroak more in this War, and we have many rea<g ref="char:EOLhyphen"/>ſons to wiſh and expect it but none more important, then that we hope thereby our King may return to you as ſafe as he came to us.</p>
+               <p>His active and Invincible Cou<g ref="char:EOLhyphen"/>rage gave us horrid frights, find<g ref="char:EOLhyphen"/>ing that he acted in the Field, ra<g ref="char:EOLhyphen"/>ther as a Couragious Captain, then a great King; this Succeſs may, we may hope juſtly entitle him to the Character of the greateſt Mo<g ref="char:EOLhyphen"/>narch in the <hi>Europe</hi> World.</p>
+               <p>Our Enemy is run in that haſt, that they have left vaſter Stores then we could have imagined they had, not only of War, but Pro<g ref="char:EOLhyphen"/>viſion behind them.</p>
+               <p>Not an hour but we have ſome News of loſs to them, and gain to us. I am under thoſe ſtraits of time, that I can neither be ſo full or methodical in Account of Per<g ref="char:EOLhyphen"/>ſonr and things as I wiſh.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Balding,</hi> the <hi>Old-Bayly.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
